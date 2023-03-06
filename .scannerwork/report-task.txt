@@ -1,0 +1,6 @@
+projectKey=arcaa
+serverUrl=http://localhost:9000
+serverVersion=7.5.0.20543
+dashboardUrl=http://localhost:9000/dashboard?id=arcaa
+ceTaskId=AYa3Fq61wwn8SiloBTn1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYa3Fq61wwn8SiloBTn1
